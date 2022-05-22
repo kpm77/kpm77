@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kpm77
-- 👀 I’m A Life and Business Coach
-- 🌱 I’m currently learning Python to build tools that can help clients that can't to afford commercial apps
-- 💞️ I’m looking to collaborate on psychometric and life mangagment projects...
-- 📫 You can reach me on karelmare@g,mail.com...
+- 👀 I’m A Life and Business Coach 
+- 🌱 I’m currently learning Python to build tools that can help clients that can't to afford commercial apps.
+- 💞️ I’m looking to collaborate on psychometric and life mangagment projects.
+- 📫 You can reach me on karelmare@gmail.com 
